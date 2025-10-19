@@ -1,0 +1,54 @@
+
+
+Como calcular la media estadistica de df_pp_ventas[""]
+df_pp_ventas["producto"] == "Cuadro decorativo"]
+
+--------------------------------------------------------------------------------- 
+
+para df_pp_ventas["producto"] == "Adorno de pared" como se podria estratificar el 
+precio_unit (rangos ?) para que sea mas representativo que la media estadistica 
+y
+sobretodo que el precio de venta no este por debajo del costo_unit
+
+I understand. To get a more representative view of the precio_unit for 
+"Adorno de pared" than just the mean, we can stratify the prices into ranges. 
+
+Here's how we can do that:
+
+ Filter the dataframe: Create a new DataFrame containing only the rows 
+ where the 'producto' is "Adorno de pared".
+ Analyze price distribution: Examine the distribution of precio_unit for the 
+ filtered data using descriptive statistics and visualization (like a histogram).
+ 
+ Define price ranges: Based on the price distribution, define appropriate ranges 
+ or bins for stratification.
+ 
+ Stratify prices: Create a new column in the filtered DataFrame that assigns each 
+ price to a defined range.
+ 
+ Analyze stratified prices: Analyze the number of occurrences or other metrics 
+ within each price range to understand the price distribution better.
+ 
+ Finish task: Present the stratified price analysis and discuss the findings.
+ 
+--------------------------------------------------------------------------------- 
+
+para df_marketing los registros:0, 8, 70
+
+
+Now you can use this DataFrame for further analysis. Here are a few ideas for next steps:
+
+    Merge df_producto with df_ventas_final: You could merge these two DataFrames to easily access product and category information alongside sales data.
+    Analyze sales by category using df_producto: Group the sales data by 'cat_id' or 'cat_name' from df_producto.
+    Merge df_producto with df_marketing: Combine product information with marketing campaign details.
+    
+    
+    
+    
+    
+df_producto agregar una columna "ProdID" cuyo contenido sea el indice
+
+
+en df_producto como agregar una columna "ProdID" cuyo contenido sea el indice. 
+
+HACERLO EN OTRA CELDA VACIA. NO  MODIFIQUES mi celda
