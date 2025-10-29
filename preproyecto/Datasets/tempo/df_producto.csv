@@ -1,0 +1,31 @@
+id_producto,producto,id_categoria,categoria
+1,Adorno de pared,1,Decoración
+2,Alfombra,1,Decoración
+3,Aspiradora,2,Electrodomésticos
+4,Auriculares,3,Electrónica
+5,Batidora,2,Electrodomésticos
+6,Cafetera,2,Electrodomésticos
+7,Candelabro,1,Decoración
+8,Consola de videojuegos,3,Electrónica
+9,Cortinas,1,Decoración
+10,Cuadro decorativo,1,Decoración
+11,Cámara digital,3,Electrónica
+12,Elementos de cerámica,1,Decoración
+13,Espejo decorativo,1,Decoración
+14,Freidora eléctrica,2,Electrodomésticos
+15,Heladera,2,Electrodomésticos
+16,Horno eléctrico,2,Electrodomésticos
+17,Jarrón decorativo,1,Decoración
+18,Laptop,3,Electrónica
+19,Lavadora,2,Electrodomésticos
+20,Lámpara de mesa,1,Decoración
+21,Microondas,2,Electrodomésticos
+22,Parlantes Bluetooth,3,Electrónica
+23,Plancha de vapor,2,Electrodomésticos
+24,Proyector,3,Electrónica
+25,Rincón de plantas,1,Decoración
+26,Secadora,2,Electrodomésticos
+27,SmartWatch,3,Electrónica
+28,Smartphone,3,Electrónica
+29,Tablet,3,Electrónica
+30,Televisor,3,Electrónica
