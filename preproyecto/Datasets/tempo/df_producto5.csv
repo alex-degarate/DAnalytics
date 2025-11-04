@@ -1,0 +1,91 @@
+,id_producto,producto,id_categoria,categoria,rango,media_rango,precio_rango,prod_gener
+0,101,Adorno de pared-R1,1,Decoración,R1,44.39,25-66,Adorno de pared
+1,102,Adorno de pared-R2,1,Decoración,R2,78.29,66-91,Adorno de pared
+2,103,Adorno de pared-R3,1,Decoración,R3,105.74,91-120,Adorno de pared
+3,111,Alfombra-R1,1,Decoración,R1,41.55,28-54,Alfombra
+4,112,Alfombra-R2,1,Decoración,R2,71.0,54-89,Alfombra
+5,113,Alfombra-R3,1,Decoración,R3,109.1,89-125,Alfombra
+6,121,Aspiradora-R1,2,Electrodomésticos,R1,0.0,,Aspiradora
+7,122,Aspiradora-R2,2,Electrodomésticos,R2,0.0,,Aspiradora
+8,123,Aspiradora-R3,2,Electrodomésticos,R3,0.0,,Aspiradora
+9,131,Auriculares-R1,3,Electrónica,R1,0.0,,Auriculares
+10,132,Auriculares-R2,3,Electrónica,R2,0.0,,Auriculares
+11,133,Auriculares-R3,3,Electrónica,R3,0.0,,Auriculares
+12,141,Batidora-R1,2,Electrodomésticos,R1,0.0,,Batidora
+13,142,Batidora-R2,2,Electrodomésticos,R2,0.0,,Batidora
+14,143,Batidora-R3,2,Electrodomésticos,R3,0.0,,Batidora
+15,151,Cafetera-R1,2,Electrodomésticos,R1,0.0,,Cafetera
+16,152,Cafetera-R2,2,Electrodomésticos,R2,0.0,,Cafetera
+17,153,Cafetera-R3,2,Electrodomésticos,R3,0.0,,Cafetera
+18,161,Candelabro-R1,1,Decoración,R1,0.0,,Candelabro
+19,162,Candelabro-R2,1,Decoración,R2,0.0,,Candelabro
+20,163,Candelabro-R3,1,Decoración,R3,0.0,,Candelabro
+21,171,Consola de videojuegos-R1,3,Electrónica,R1,0.0,,Consola de videojuegos
+22,172,Consola de videojuegos-R2,3,Electrónica,R2,0.0,,Consola de videojuegos
+23,173,Consola de videojuegos-R3,3,Electrónica,R3,0.0,,Consola de videojuegos
+24,181,Cortinas-R1,1,Decoración,R1,0.0,,Cortinas
+25,182,Cortinas-R2,1,Decoración,R2,0.0,,Cortinas
+26,183,Cortinas-R3,1,Decoración,R3,0.0,,Cortinas
+27,191,Cuadro decorativo-R1,1,Decoración,R1,40.8,26-61,Cuadro decorativo
+28,192,Cuadro decorativo-R2,1,Decoración,R2,73.64,61-86,Cuadro decorativo
+29,193,Cuadro decorativo-R3,1,Decoración,R3,107.29,86-125,Cuadro decorativo
+30,201,Cámara digital-R1,3,Electrónica,R1,0.0,,Cámara digital
+31,202,Cámara digital-R2,3,Electrónica,R2,0.0,,Cámara digital
+32,203,Cámara digital-R3,3,Electrónica,R3,0.0,,Cámara digital
+33,211,Elementos de cerámica-R1,1,Decoración,R1,0.0,,Elementos de cerámica
+34,212,Elementos de cerámica-R2,1,Decoración,R2,0.0,,Elementos de cerámica
+35,213,Elementos de cerámica-R3,1,Decoración,R3,0.0,,Elementos de cerámica
+36,221,Espejo decorativo-R1,1,Decoración,R1,0.0,,Espejo decorativo
+37,222,Espejo decorativo-R2,1,Decoración,R2,0.0,,Espejo decorativo
+38,223,Espejo decorativo-R3,1,Decoración,R3,0.0,,Espejo decorativo
+39,231,Freidora eléctrica-R1,2,Electrodomésticos,R1,0.0,,Freidora eléctrica
+40,232,Freidora eléctrica-R2,2,Electrodomésticos,R2,0.0,,Freidora eléctrica
+41,233,Freidora eléctrica-R3,2,Electrodomésticos,R3,0.0,,Freidora eléctrica
+42,241,Heladera-R1,2,Electrodomésticos,R1,0.0,,Heladera
+43,242,Heladera-R2,2,Electrodomésticos,R2,0.0,,Heladera
+44,243,Heladera-R3,2,Electrodomésticos,R3,0.0,,Heladera
+45,251,Horno eléctrico-R1,2,Electrodomésticos,R1,0.0,,Horno eléctrico
+46,252,Horno eléctrico-R2,2,Electrodomésticos,R2,0.0,,Horno eléctrico
+47,253,Horno eléctrico-R3,2,Electrodomésticos,R3,0.0,,Horno eléctrico
+48,261,Jarrón decorativo-R1,1,Decoración,R1,0.0,,Jarrón decorativo
+49,262,Jarrón decorativo-R2,1,Decoración,R2,0.0,,Jarrón decorativo
+50,263,Jarrón decorativo-R3,1,Decoración,R3,0.0,,Jarrón decorativo
+51,271,Laptop-R1,3,Electrónica,R1,0.0,,Laptop
+52,272,Laptop-R2,3,Electrónica,R2,0.0,,Laptop
+53,273,Laptop-R3,3,Electrónica,R3,0.0,,Laptop
+54,281,Lavadora-R1,2,Electrodomésticos,R1,0.0,,Lavadora
+55,282,Lavadora-R2,2,Electrodomésticos,R2,0.0,,Lavadora
+56,283,Lavadora-R3,2,Electrodomésticos,R3,0.0,,Lavadora
+57,291,Lámpara de mesa-R1,1,Decoración,R1,0.0,,Lámpara de mesa
+58,292,Lámpara de mesa-R2,1,Decoración,R2,0.0,,Lámpara de mesa
+59,293,Lámpara de mesa-R3,1,Decoración,R3,0.0,,Lámpara de mesa
+60,301,Microondas-R1,2,Electrodomésticos,R1,0.0,,Microondas
+61,302,Microondas-R2,2,Electrodomésticos,R2,0.0,,Microondas
+62,303,Microondas-R3,2,Electrodomésticos,R3,0.0,,Microondas
+63,311,Parlantes Bluetooth-R1,3,Electrónica,R1,0.0,,Parlantes Bluetooth
+64,312,Parlantes Bluetooth-R2,3,Electrónica,R2,0.0,,Parlantes Bluetooth
+65,313,Parlantes Bluetooth-R3,3,Electrónica,R3,0.0,,Parlantes Bluetooth
+66,321,Plancha de vapor-R1,2,Electrodomésticos,R1,0.0,,Plancha de vapor
+67,322,Plancha de vapor-R2,2,Electrodomésticos,R2,0.0,,Plancha de vapor
+68,323,Plancha de vapor-R3,2,Electrodomésticos,R3,0.0,,Plancha de vapor
+69,331,Proyector-R1,3,Electrónica,R1,0.0,,Proyector
+70,332,Proyector-R2,3,Electrónica,R2,0.0,,Proyector
+71,333,Proyector-R3,3,Electrónica,R3,0.0,,Proyector
+72,341,Rincón de plantas-R1,1,Decoración,R1,0.0,,Rincón de plantas
+73,342,Rincón de plantas-R2,1,Decoración,R2,0.0,,Rincón de plantas
+74,343,Rincón de plantas-R3,1,Decoración,R3,0.0,,Rincón de plantas
+75,351,Secadora-R1,2,Electrodomésticos,R1,0.0,,Secadora
+76,352,Secadora-R2,2,Electrodomésticos,R2,0.0,,Secadora
+77,353,Secadora-R3,2,Electrodomésticos,R3,0.0,,Secadora
+78,361,SmartWatch-R1,3,Electrónica,R1,0.0,,SmartWatch
+79,362,SmartWatch-R2,3,Electrónica,R2,0.0,,SmartWatch
+80,363,SmartWatch-R3,3,Electrónica,R3,0.0,,SmartWatch
+81,371,Smartphone-R1,3,Electrónica,R1,0.0,,Smartphone
+82,372,Smartphone-R2,3,Electrónica,R2,0.0,,Smartphone
+83,373,Smartphone-R3,3,Electrónica,R3,0.0,,Smartphone
+84,381,Tablet-R1,3,Electrónica,R1,0.0,,Tablet
+85,382,Tablet-R2,3,Electrónica,R2,0.0,,Tablet
+86,383,Tablet-R3,3,Electrónica,R3,0.0,,Tablet
+87,391,Televisor-R1,3,Electrónica,R1,0.0,,Televisor
+88,392,Televisor-R2,3,Electrónica,R2,0.0,,Televisor
+89,393,Televisor-R3,3,Electrónica,R3,0.0,,Televisor
