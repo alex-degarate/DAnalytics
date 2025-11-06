@@ -1,0 +1,568 @@
+id_cliente,nombre,edad,ciudad,ingresos,city_normal
+1,Aloysia Screase,44,Mar del Plata,42294.68,Mar del Plata
+2,Kristina Scaplehorn,25,Posadas,24735.04,Posadas
+3,Filip Castagne,50,Resistencia,35744.85,Resistencia
+4,Liuka Luard,39,Bahía Blanca,27647.96,Bahia Blanca
+5,Dore Cockshtt,28,Rosario,28245.65,Rosario
+6,Patrick Earle,34,San Miguel de Tucumán,62763.31,San Miguel de Tucuman
+7,Etan Deeth,35,Resistencia,37489.71,Resistencia
+8,Booth Bielfelt,40,Córdoba,35255.94,Cordoba
+9,Shirl Labone,29,Rosario,27592.08,Rosario
+10,Andy Mendenhall,52,Rosario,37153.94,Rosario
+11,Hans Strong,69,Resistencia,35596.27,Resistencia
+12,Griffith Lowey,27,Corrientes,41862.78,Corrientes
+13,Hadria Hinkensen,33,San Miguel de Tucumán,56171.38,San Miguel de Tucuman
+14,Ilyssa Arden,52,Resistencia,14690.68,Resistencia
+15,Denni Dhillon,27,Resistencia,42168.75,Resistencia
+16,Garrott Bogart,32,Rosario,16480.55,Rosario
+17,Minor Josephy,28,Santa Fe,47018.78,Santa Fe
+18,Marylynne Piner,47,Rosario,32826.37,Rosario
+19,Cari Marzellano,38,Mar del Plata,53114.05,Mar del Plata
+20,Magdalene Pegg,34,Córdoba,49849.42,Cordoba
+21,Lorry Santori,47,Corrientes,42000.81,Corrientes
+22,Gertrude La Wille,44,Merlo,9085.92,Merlo
+23,Audrye Fairbeard,40,Santa Fe,46734.23,Santa Fe
+24,Merle Musslewhite,33,Salta,39770.63,Salta
+25,Lola Hansie,44,Santa Fe,25917.58,Santa Fe
+26,Darelle Errett,47,Salta,27928.46,Salta
+27,Marianna Lossman,36,Córdoba,36720.12,Cordoba
+28,Charmaine Vanin,37,Santa Fe,33220.06,Santa Fe
+29,Paul Perrott,34,Mar del Plata,41813.93,Mar del Plata
+30,Tedi O'Shiel,32,Bahía Blanca,44137.9,Bahia Blanca
+31,Merv Brislan,35,Mar del Plata,21063.82,Mar del Plata
+32,Winnifred Edland,35,San Miguel de Tucumán,54193.68,San Miguel de Tucuman
+33,Bevin Keenor,28,Resistencia,33986.78,Resistencia
+34,Tomaso Murname,35,Mar del Plata,28615.26,Mar del Plata
+35,Carmelia Bunn,52,Rosario,27136.93,Rosario
+36,Karie Premble,44,Posadas,52128.76,Posadas
+37,Maurice Pelling,26,Corrientes,25838.89,Corrientes
+38,Clotilda Abilowitz,57,Posadas,42757.46,Posadas
+39,Ginger Askaw,36,Salta,36779.95,Salta
+40,Sallie Stubbe,37,Bahía Blanca,28333.21,Bahia Blanca
+41,Viki Sottell,31,Mar del Plata,43388.14,Mar del Plata
+42,Frazer Wooding,30,Bahía Blanca,39243.17,Bahia Blanca
+43,Beverie Vassman,41,Salta,30237.01,Salta
+44,Yettie Fritchley,37,Merlo,29665.37,Merlo
+45,Eloise McPaik,36,San Miguel de Tucumán,20234.81,San Miguel de Tucuman
+46,Gray Brede,30,Buenos Aires,20880.07,Buenos Aires
+47,Mirella Dryburgh,27,Córdoba,29914.53,Cordoba
+48,Herrick Wagen,20,Corrientes,25017.77,Corrientes
+49,Dyanna Jimpson,51,Corrientes,39132.63,Corrientes
+50,Sephira Risen,48,Santa Fe,31056.32,Santa Fe
+51,Chaunce Squirrel,43,Posadas,39896.32,Posadas
+52,Carly Tootell,37,Buenos Aires,7901.16,Buenos Aires
+53,Brigid Mainds,26,Córdoba,45641.94,Cordoba
+54,Marnie Patrick,38,Merlo,37690.42,Merlo
+55,Dante Rusk,29,San Miguel de Tucumán,19065.49,San Miguel de Tucuman
+56,Myrna Branchett,35,San Miguel de Tucumán,3603.65,San Miguel de Tucuman
+57,Carey Moppett,48,Bahía Blanca,61296.09,Bahia Blanca
+58,Phillipp Litster,45,Posadas,30978.96,Posadas
+59,Linea Colbridge,45,Corrientes,30800.4,Corrientes
+60,Andromache Bauer,59,Resistencia,60027.71,Resistencia
+61,Domenico Chamberlain,29,Córdoba,33894.6,Cordoba
+62,Renee Cahani,34,Santa Fe,49215.7,Santa Fe
+63,Kimberli Stiddard,29,Corrientes,51773.22,Corrientes
+64,Alison Ianizzi,54,Salta,37077.23,Salta
+65,Greer Goldster,34,Salta,46549.39,Salta
+66,Mohandas Pickworth,34,Mar del Plata,27487.51,Mar del Plata
+67,Humphrey Nertney,25,Santa Fe,33401.67,Santa Fe
+68,Agustin Bofield,30,Santa Fe,57501.45,Santa Fe
+69,Georgia Jeannot,48,Posadas,27271.1,Posadas
+70,Beth Igo,35,Rosario,46525.97,Rosario
+71,Aindrea Winter,50,Córdoba,31514.23,Cordoba
+72,Callie Curner,37,Córdoba,35486.9,Cordoba
+73,Clayborne Lipgens,33,Posadas,53758.89,Posadas
+74,Hadrian Sugg,24,Corrientes,22895.21,Corrientes
+75,Kassandra Oland,55,Merlo,19996.54,Merlo
+76,Fionnula Antoniutti,32,Corrientes,8756.53,Corrientes
+77,Silvanus Keer,23,Merlo,34822.1,Merlo
+78,Haley Ewbanks,38,Salta,35205.04,Salta
+79,Drusi Seven,32,Corrientes,37982.47,Corrientes
+80,Cortney Stetson,43,Buenos Aires,50757.4,Buenos Aires
+81,Kendall Androsik,45,Rosario,43948.65,Rosario
+82,Muffin Stather,30,Rosario,46088.54,Rosario
+83,Mindy Bootes,26,Rosario,19009.84,Rosario
+84,Eloisa Hawick,36,Santa Fe,36720.12,Santa Fe
+85,Welby Zealander,34,Corrientes,29249.16,Corrientes
+86,Puff Caig,34,Posadas,36166.55,Posadas
+87,Jaquith De Goey,30,San Miguel de Tucumán,25454.48,San Miguel de Tucuman
+88,Lorrie Charles,32,Salta,34918.69,Salta
+89,Liana Goldstone,40,Corrientes,45912.27,Corrientes
+90,Obed Cosham,37,Rosario,50428.21,Rosario
+91,Reynold Aspray,38,Merlo,170.29,Merlo
+92,Sybyl Frise,45,Buenos Aires,45332.69,Buenos Aires
+93,Crystie Demschke,45,Buenos Aires,26609.66,Buenos Aires
+94,Jessalyn Dennistoun,37,Córdoba,27997.26,Cordoba
+95,Laney Glewe,36,Posadas,56357.47,Posadas
+96,El Garbett,27,Mar del Plata,30800.52,Mar del Plata
+97,Ag Ifill,40,Resistencia,45503.54,Resistencia
+98,Maje Stummeyer,41,Resistencia,53904.28,Resistencia
+99,Belicia Ridewood,35,Santa Fe,21186.8,Santa Fe
+100,Robinetta Erik,23,Posadas,22560.67,Posadas
+101,Lawry Whillock,29,Merlo,40299.38,Merlo
+102,Kathi Privost,42,Salta,46129.47,Salta
+103,Hanson Lum,33,San Miguel de Tucumán,40501.49,San Miguel de Tucuman
+104,Adolphus Morton,24,Posadas,31111.35,Posadas
+105,Quent Amps,25,Merlo,36251.4,Merlo
+106,Kizzie Carloni,37,Bahía Blanca,38639.35,Bahia Blanca
+107,Ellen Cadge,38,Bahía Blanca,23557.54,Bahia Blanca
+108,Branden Mabe,25,Mar del Plata,23295.13,Mar del Plata
+109,Connor Frango,46,Buenos Aires,47539.84,Buenos Aires
+110,Stephie MacKeig,28,Mar del Plata,25378.01,Mar del Plata
+111,Sherrie Gregoratti,39,Mar del Plata,50329.71,Mar del Plata
+112,Wildon Newsham,26,Posadas,37853.92,Posadas
+113,Genevieve Vasler,42,Corrientes,33190.45,Corrientes
+114,Theodosia Merryweather,50,Rosario,44847.82,Rosario
+115,Diandra Longcake,65,Corrientes,45292.27,Corrientes
+116,Gabrielle Napolitano,29,Merlo,39892.04,Merlo
+117,Rina Pethick,36,Posadas,28312.38,Posadas
+118,Brigitte Houlden,53,San Miguel de Tucumán,30953.38,San Miguel de Tucuman
+119,Lucien Douris,39,Merlo,41134.58,Merlo
+120,Pollyanna Whittlesey,47,Salta,19878.28,Salta
+121,Pernell Paffley,26,Rosario,55701.93,Rosario
+122,Sebastiano Salla,25,Salta,58142.4,Salta
+123,Mattie Humpherston,35,San Miguel de Tucumán,23801.33,San Miguel de Tucuman
+124,Bebe Esilmon,29,Bahía Blanca,17134.31,Bahia Blanca
+125,Bennie O'Regan,40,Resistencia,60645.26,Resistencia
+126,Drusy Grgic,48,Buenos Aires,36611.51,Buenos Aires
+127,Anatole Bahde,48,Córdoba,38860.1,Cordoba
+128,Lacie Cline,81,Salta,16595.3,Salta
+129,Dave Bosson,36,Bahía Blanca,38074.11,Bahia Blanca
+130,Lynne Linkie,42,Rosario,27663.59,Rosario
+131,Brittan Caughte,28,Posadas,17294.42,Posadas
+132,Trstram Troughton,43,Córdoba,57931.42,Cordoba
+133,Arleta Pennigar,36,Córdoba,49554.51,Cordoba
+134,Florida Ruter,31,Salta,36251.4,Salta
+135,Giffer Hinstock,28,Córdoba,31190.27,Cordoba
+136,Bern Tregian,32,San Miguel de Tucumán,31384.95,San Miguel de Tucuman
+137,Devi Goalley,29,Merlo,34610.42,Merlo
+138,Melany Janiak,39,Resistencia,26757.8,Resistencia
+139,Risa Playhill,43,Posadas,34357.86,Posadas
+140,Joye Costley,24,Merlo,55323.78,Merlo
+141,Scot Graben,54,Rosario,29351.15,Rosario
+142,Rodrigo Dooland,30,Corrientes,29492.94,Corrientes
+143,Doug Provost,25,Mar del Plata,29935.39,Mar del Plata
+144,Elyn Hiorn,39,Santa Fe,14548.46,Santa Fe
+145,Sara Riby,48,Salta,17874.07,Salta
+146,Jameson Riccione,37,Buenos Aires,16306.0,Buenos Aires
+147,Duke Tonner,52,Posadas,18170.77,Posadas
+148,Brigid Ickowicz,32,Buenos Aires,48338.08,Buenos Aires
+149,Allissa Napleton,50,Corrientes,34753.74,Corrientes
+150,Jaclyn Crepin,56,Corrientes,23760.91,Corrientes
+151,Hedwiga Spanton,52,Mar del Plata,33508.69,Mar del Plata
+152,Humberto Kanzler,27,Salta,28131.39,Salta
+153,Orton Minkin,29,Buenos Aires,46031.85,Buenos Aires
+154,My de'-Ancy Willis,43,Rosario,33105.01,Rosario
+155,Dosi Groger,30,Córdoba,56809.04,Cordoba
+156,Walden Kordt,47,Resistencia,60647.99,Resistencia
+157,Westbrook O'Caherny,25,Santa Fe,29982.55,Santa Fe
+158,Electra Shilston,35,Posadas,786.77,Posadas
+159,Fabian Chancelier,46,Rosario,37220.19,Rosario
+160,Holly-anne Whymark,43,Mar del Plata,30588.42,Mar del Plata
+161,Francis Killby,37,Corrientes,35931.21,Corrientes
+162,Romeo Harbar,24,Santa Fe,37492.73,Santa Fe
+163,Teddie Massimo,44,Santa Fe,42297.5,Santa Fe
+164,Sheffie Ford,27,Posadas,45087.63,Posadas
+165,Ilise Manjin,24,Córdoba,41323.69,Cordoba
+166,Barry Ramsby,35,Posadas,35156.97,Posadas
+167,Emilie Alforde,32,Merlo,28734.62,Merlo
+168,Rosetta Kennifick,30,Mar del Plata,29631.15,Mar del Plata
+169,Morey Brundell,43,Posadas,36611.51,Posadas
+170,Ogdon Swadlinge,35,Mar del Plata,16313.81,Mar del Plata
+171,Maegan Trillo,62,Mar del Plata,42590.61,Mar del Plata
+172,Bent Isenor,28,Santa Fe,74147.65,Santa Fe
+173,Elton Aloigi,43,Mar del Plata,27861.85,Mar del Plata
+174,Nelli Yanshonok,45,Merlo,33626.6,Merlo
+175,Judy Gerred,24,Corrientes,58465.86,Corrientes
+176,Cosette Baggaley,39,Merlo,27080.31,Merlo
+177,Fransisco Lillo,28,Corrientes,35011.85,Corrientes
+178,Helenka Costin,75,Mar del Plata,48611.93,Mar del Plata
+179,Orville Yerby,29,Salta,33637.48,Salta
+180,Terencio Tyas,44,Mar del Plata,51421.58,Mar del Plata
+181,Celestyna Buddock,45,Santa Fe,21200.95,Santa Fe
+182,Baldwin Drieu,39,Salta,23533.08,Salta
+183,Marylinda Gianasi,25,Mar del Plata,37832.38,Mar del Plata
+184,Cello Bentjens,31,Bahía Blanca,40253.67,Bahia Blanca
+185,Addy Lattos,46,Córdoba,41370.58,Cordoba
+186,Toddie Renals,58,San Miguel de Tucumán,49518.43,San Miguel de Tucuman
+187,Franni Whitlaw,29,Posadas,30400.08,Posadas
+188,D'arcy Creak,42,Buenos Aires,36868.84,Buenos Aires
+189,Kay Dradey,43,Córdoba,34537.66,Cordoba
+190,Drugi Doumenc,42,Salta,46756.36,Salta
+191,Gilberte Kivell,55,Mar del Plata,39719.87,Mar del Plata
+192,Shoshanna Verryan,40,Resistencia,6619.38,Resistencia
+193,Gonzales Fiddeman,32,Córdoba,18074.87,Cordoba
+194,Izzy Lakeland,26,San Miguel de Tucumán,21054.29,San Miguel de Tucuman
+195,Brod Spuffard,45,Córdoba,15474.79,Cordoba
+196,Jocko Quickfall,41,San Miguel de Tucumán,25257.65,San Miguel de Tucuman
+197,Glenna Knibley,20,Salta,47432.89,Salta
+198,Juliann Keiling,62,Santa Fe,60620.67,Santa Fe
+199,Orin Frearson,43,Merlo,16807.7,Merlo
+200,Othelia Simonaitis,30,Merlo,43723.37,Merlo
+201,Elset Simko,38,Santa Fe,35096.15,Santa Fe
+202,Denis Toping,43,Corrientes,36725.7,Corrientes
+203,Si Tune,37,Córdoba,36855.07,Cordoba
+204,Leroi Weems,32,Rosario,59022.15,Rosario
+205,Wallace Tweedie,29,Mar del Plata,46053.49,Mar del Plata
+206,Olin Pauluzzi,29,Santa Fe,30001.7,Santa Fe
+207,Lissi Simondson,48,Rosario,39751.41,Rosario
+208,Sherwin Cossell,40,Rosario,40700.9,Rosario
+209,Ephrayim Owens,42,Córdoba,15715.84,Cordoba
+210,Stephi Ties,38,Bahía Blanca,39717.6,Bahia Blanca
+211,Willow Partrick,29,Córdoba,34691.89,Cordoba
+212,Samuel Kornilov,38,Posadas,40651.74,Posadas
+213,Henrie Crassweller,38,Buenos Aires,44275.95,Buenos Aires
+214,Johan Grimston,30,Mar del Plata,41939.22,Mar del Plata
+215,Dinnie Robertelli,71,Merlo,9002.64,Merlo
+216,Elinore Le Leu,50,Mar del Plata,48865.2,Mar del Plata
+217,Ethelred Speakman,33,Mar del Plata,42323.59,Mar del Plata
+218,Hamnet Maberley,38,Posadas,21309.97,Posadas
+219,Raquel Gentile,43,Buenos Aires,32492.98,Buenos Aires
+220,Bruce Hinstock,71,Resistencia,25720.15,Resistencia
+221,Michale Rustidge,42,Santa Fe,35596.27,Santa Fe
+222,Bary Tanner,37,Córdoba,37626.61,Cordoba
+223,Poppy Dachs,20,Salta,15907.15,Salta
+224,Dudley Stallworth,33,Buenos Aires,20196.84,Buenos Aires
+225,Claresta Ateggart,37,Buenos Aires,36097.06,Buenos Aires
+226,Christiana Iglesias,40,Rosario,28337.74,Rosario
+227,Carlene Peek,40,Merlo,48526.08,Merlo
+228,Janette Wakeford,27,Córdoba,27749.95,Cordoba
+229,Moritz Wyke,32,Posadas,37113.41,Posadas
+230,Evvie Ravens,45,Posadas,35552.3,Posadas
+231,Hedvig Jirick,33,Resistencia,20628.14,Resistencia
+232,Bartholomeus Rigge,41,Resistencia,37030.07,Resistencia
+233,Gib Menicomb,45,Mar del Plata,23120.84,Mar del Plata
+234,Enrico Ahrend,42,Buenos Aires,40569.56,Buenos Aires
+235,Rancell Voaden,37,Resistencia,59088.93,Resistencia
+236,Dal Tenpenny,50,San Miguel de Tucumán,56600.2,San Miguel de Tucuman
+237,Erinn Crotty,41,Mar del Plata,20822.35,Mar del Plata
+238,Alexandra Stapley,29,Salta,20319.72,Salta
+239,Rosanne Castro,44,Merlo,46222.48,Merlo
+240,Aubrette Maceur,34,Salta,34865.33,Salta
+241,Glenine Carette,28,Resistencia,31591.9,Resistencia
+242,Bellina Bathow,31,Mar del Plata,30899.12,Mar del Plata
+243,Alvis Malcolmson,50,Mar del Plata,31204.77,Mar del Plata
+244,Jenn McKendry,48,Posadas,39426.13,Posadas
+245,Deane Tesche,22,Resistencia,29609.0,Resistencia
+246,Aldous Stivers,33,Posadas,32325.65,Posadas
+247,Shaw Dell'Abbate,33,Posadas,41806.83,Posadas
+248,Gianna Benoey,38,Merlo,23099.84,Merlo
+249,Charlie Knipe,25,Buenos Aires,28168.54,Buenos Aires
+250,Danita Bensley,43,Salta,28001.09,Salta
+251,Giustina Mingauld,39,Resistencia,19572.3,Resistencia
+252,Tammi Deeble,31,Buenos Aires,39860.79,Buenos Aires
+253,Hersh McParlin,38,Bahía Blanca,18643.61,Bahia Blanca
+254,Daphene Torn,28,Mar del Plata,40483.88,Mar del Plata
+255,Marja Barrass,43,Mar del Plata,14200.5,Mar del Plata
+256,Melisande Yuill,30,Buenos Aires,42321.52,Buenos Aires
+257,Sancho St Leger,38,Resistencia,52163.62,Resistencia
+258,Doroteya Rudram,38,Bahía Blanca,37660.87,Bahia Blanca
+259,Solomon McFarlane,65,Merlo,31113.95,Merlo
+260,Elvira Trewhitt,48,Córdoba,37924.44,Cordoba
+261,Carling Waldocke,50,Mar del Plata,21325.9,Mar del Plata
+262,Rosaline Demicoli,31,Posadas,40016.46,Posadas
+263,Devin Just,23,Rosario,25168.5,Rosario
+264,Bartholomeus Hanvey,34,Salta,19784.39,Salta
+265,Hanny Ocheltree,52,Corrientes,65107.47,Corrientes
+266,Herminia Auguste,22,Corrientes,48179.69,Corrientes
+267,Trenna De Metz,33,Mar del Plata,15026.75,Mar del Plata
+268,Erin Cornilleau,41,Rosario,33938.59,Rosario
+269,Carilyn O'Mailey,52,Bahía Blanca,3603.65,Bahia Blanca
+270,Goldia Bonas,29,Mar del Plata,32318.9,Mar del Plata
+271,Raoul Denerley,40,Salta,66400.67,Salta
+272,Emmet Amoss,34,Merlo,44818.31,Merlo
+273,Ber Hawick,26,Santa Fe,27346.23,Santa Fe
+274,Ciel Paris,37,Posadas,31930.56,Posadas
+275,Paolina Francescuzzi,36,Córdoba,50639.49,Cordoba
+276,Louisette Coleford,42,Salta,17819.28,Salta
+277,Tommy Top,38,Córdoba,6221.17,Cordoba
+278,Elbert Bottomore,27,San Miguel de Tucumán,58569.24,San Miguel de Tucuman
+279,Ody Garlinge,35,Córdoba,19067.63,Cordoba
+280,Case Seefus,28,Merlo,35486.9,Merlo
+281,Stanly Wabb,34,Bahía Blanca,33577.33,Bahia Blanca
+282,Sioux Malletratt,31,Rosario,47628.64,Rosario
+283,Baillie Lyttle,48,Buenos Aires,28316.16,Buenos Aires
+284,Joanie Backler,69,Santa Fe,51581.12,Santa Fe
+285,Basil Hambatch,40,Bahía Blanca,30186.3,Bahia Blanca
+286,Mame Martinovic,37,Resistencia,24903.17,Resistencia
+287,Phillipp Nazareth,46,Resistencia,25588.66,Resistencia
+288,Tonie Cattell,34,Santa Fe,53238.48,Santa Fe
+289,Rene Knowlden,40,Merlo,227.66,Merlo
+290,Em Conyard,33,Mar del Plata,58953.48,Mar del Plata
+291,Marie-jeanne Johnson,28,Santa Fe,42821.99,Santa Fe
+292,Carmelle Halworth,26,Mar del Plata,53221.65,Mar del Plata
+293,Trixy Lillicrap,38,Córdoba,28791.54,Cordoba
+294,Ninetta Banger,43,Santa Fe,40073.38,Santa Fe
+295,Bette-ann Bertholin,40,Bahía Blanca,35319.17,Bahia Blanca
+296,Roanna Hulls,28,Salta,25078.01,Salta
+297,Pamella Izat,26,Bahía Blanca,26676.08,Bahia Blanca
+298,Rivalee Jaqueme,33,Santa Fe,24080.5,Santa Fe
+299,Clarke Fotitt,48,Resistencia,39212.84,Resistencia
+300,Ray Schapero,43,Merlo,52185.96,Merlo
+301,Remy Rushmer,28,Corrientes,9043.39,Corrientes
+302,Olia Tisun,25,Buenos Aires,25020.98,Buenos Aires
+303,Felice Piolli,22,Mar del Plata,26843.23,Mar del Plata
+304,Britney Fontaine,37,Bahía Blanca,24551.86,Bahia Blanca
+305,Etan Meron,58,Bahía Blanca,20780.9,Bahia Blanca
+306,Jesse Hain,40,Bahía Blanca,54468.69,Bahia Blanca
+307,Federica Bamborough,53,Bahía Blanca,47428.86,Bahia Blanca
+308,Chiarra Cowx,44,Corrientes,41888.56,Corrientes
+309,Frieda Sappell,42,San Miguel de Tucumán,37477.47,San Miguel de Tucuman
+310,Vinson Hegley,42,Mar del Plata,22349.28,Mar del Plata
+311,Cristy Pagett,36,Rosario,36862.8,Rosario
+312,Marcella Gravett,31,San Miguel de Tucumán,20201.52,San Miguel de Tucuman
+313,Francklyn Clutheram,41,Bahía Blanca,16654.82,Bahia Blanca
+314,Rayner Rumbelow,35,Buenos Aires,53542.72,Buenos Aires
+315,Saudra Braitling,33,Corrientes,38366.67,Corrientes
+316,Terrijo Downton,43,Resistencia,39241.97,Resistencia
+317,Chere Gaudon,40,Resistencia,33321.22,Resistencia
+318,Verine Jentin,64,Bahía Blanca,28484.33,Bahia Blanca
+319,Donovan Tift,55,Resistencia,9985.66,Resistencia
+320,Clementia Ordelt,41,Rosario,40725.01,Rosario
+321,Codi Ruddiforth,29,Corrientes,30044.88,Corrientes
+322,Zacharia Harkin,51,Mar del Plata,44005.74,Mar del Plata
+323,Berenice Tummons,40,Posadas,16728.82,Posadas
+324,Doug Sandaver,29,Salta,22568.9,Salta
+325,Carla Dillestone,63,Córdoba,39341.98,Cordoba
+326,Martino Taudevin,41,Mar del Plata,24359.92,Mar del Plata
+327,Birk Van der Beek,27,Bahía Blanca,18844.27,Bahia Blanca
+328,Ailina Martelet,29,San Miguel de Tucumán,7533.36,San Miguel de Tucuman
+329,Jarid Davidovici,36,Resistencia,88053.01,Resistencia
+330,Osborne Broggetti,31,Buenos Aires,16922.48,Buenos Aires
+331,Lutero Climie,45,Corrientes,26187.05,Corrientes
+332,Flory Sherewood,24,Santa Fe,52451.13,Santa Fe
+333,Steffi Copestake,44,Resistencia,37159.71,Resistencia
+334,Adrianna Fenby,43,Buenos Aires,15105.29,Buenos Aires
+335,Fin Arthan,25,Merlo,41383.85,Merlo
+336,Jaymie Halsey,32,Córdoba,28658.31,Cordoba
+337,Alphonso Adshed,29,Salta,43663.51,Salta
+338,Annmarie Mont,55,San Miguel de Tucumán,32529.31,San Miguel de Tucuman
+339,Reinwald Bown,64,Resistencia,26651.19,Resistencia
+340,Dody Caselli,47,Mar del Plata,43830.34,Mar del Plata
+341,Karena Athy,31,Santa Fe,8996.96,Santa Fe
+342,Karin Scarff,40,Merlo,42159.96,Merlo
+343,Lon Tysack,51,Salta,47919.67,Salta
+344,Lucais Brameld,39,Mar del Plata,56239.02,Mar del Plata
+345,Catina Lorence,38,Salta,28982.88,Salta
+346,Orrin Kinglesyd,54,Merlo,49498.6,Merlo
+347,Dru Beeken,48,Rosario,29831.4,Rosario
+348,Wilhelm Murfin,44,Resistencia,39024.45,Resistencia
+349,Billye Searchfield,34,Rosario,36408.87,Rosario
+350,Abbey Vanichkin,47,Rosario,36401.85,Rosario
+351,Kitti Earey,53,Rosario,34873.86,Rosario
+352,Cecilio Fernan,23,Buenos Aires,35319.17,Buenos Aires
+353,Camey Cloy,54,Rosario,27324.28,Rosario
+354,Giacinta Coley,37,Santa Fe,23017.41,Santa Fe
+355,Kimmi Kensall,29,Rosario,54622.04,Rosario
+356,Arlena Tipperton,34,Bahía Blanca,22999.56,Bahia Blanca
+357,Blondie Dmytryk,31,Salta,45394.05,Salta
+358,Hardy Stappard,46,Posadas,54108.91,Posadas
+359,Dalis Bathurst,42,Rosario,9040.32,Rosario
+360,Elton Ormrod,44,San Miguel de Tucumán,24152.9,San Miguel de Tucuman
+361,Lynde MacCart,36,Mar del Plata,5552.45,Mar del Plata
+362,Albrecht Itchingham,50,Posadas,48947.49,Posadas
+363,Briney Fishbourne,22,Salta,35248.26,Salta
+364,Kaycee Ethridge,57,Rosario,32871.79,Rosario
+365,Ellwood Nancekivell,38,Posadas,36909.15,Posadas
+366,Paige Matterface,41,San Miguel de Tucumán,40435.69,San Miguel de Tucuman
+367,Care Mahomet,39,Corrientes,26352.3,Corrientes
+368,La verne Golsthorp,40,Córdoba,55682.22,Cordoba
+369,Micheline Tinsley,26,San Miguel de Tucumán,30003.34,San Miguel de Tucuman
+370,Jorey Knappett,38,Mar del Plata,14243.87,Mar del Plata
+371,Yoshi Baysting,29,Bahía Blanca,25726.65,Bahia Blanca
+372,Denys Drewery,41,Resistencia,26820.9,Resistencia
+373,Piotr Jirousek,27,Merlo,66953.76,Merlo
+374,Inez Munsey,52,Mar del Plata,30633.53,Mar del Plata
+375,Torey Lampen,64,Santa Fe,20413.35,Santa Fe
+376,Marrilee Siley,32,Resistencia,45012.61,Resistencia
+377,Iorgo Petken,36,Buenos Aires,44562.82,Buenos Aires
+378,Roxine Doogue,36,Córdoba,62421.04,Cordoba
+379,Rayner Croom,37,Buenos Aires,29806.61,Buenos Aires
+380,Lanette Frogley,24,Posadas,30320.51,Posadas
+381,Hartwell Balharrie,43,Resistencia,26112.9,Resistencia
+382,Ola Blethin,47,Corrientes,35159.67,Corrientes
+383,Terrel Chainey,35,Posadas,17542.93,Posadas
+384,Saloma Leyban,29,Mar del Plata,21769.49,Mar del Plata
+385,Saxe de Glanville,37,San Miguel de Tucumán,51177.03,San Miguel de Tucuman
+386,Burt Meindl,38,Merlo,35262.5,Merlo
+387,Martina Thresher,39,Salta,44607.99,Salta
+388,Paulina Korneichik,33,Merlo,35744.85,Merlo
+389,Dollie Hencke,43,Mar del Plata,46506.19,Mar del Plata
+390,Shay Woolager,23,Merlo,22397.82,Merlo
+391,Arline Rides,36,Córdoba,21944.45,Cordoba
+392,Kelbee Eickhoff,35,Corrientes,31057.96,Corrientes
+393,Ingar Vasyunichev,29,Posadas,35186.26,Posadas
+394,Roderic Vesco,38,San Miguel de Tucumán,35931.21,San Miguel de Tucuman
+395,Phelia Overell,29,Rosario,22061.84,Rosario
+396,Guendolen Lindbergh,33,Córdoba,49568.4,Cordoba
+397,Carlene Malt,20,Posadas,58831.76,Posadas
+398,Ulrich Misk,30,Rosario,34550.41,Rosario
+399,Chandler McCreery,27,Santa Fe,46112.12,Santa Fe
+400,Reinold Fernely,52,Bahía Blanca,59316.35,Bahia Blanca
+401,Eamon Vischi,41,Posadas,38021.87,Posadas
+402,Husein Dies,42,Rosario,42243.51,Rosario
+403,Beverley Korfmann,54,Córdoba,20221.87,Cordoba
+404,Ab Wilsher,42,Resistencia,29723.13,Resistencia
+405,Timothea MacNucator,39,Resistencia,34610.4,Resistencia
+406,Frederica Simo,35,Rosario,49802.37,Rosario
+407,Jonathan Shitliffe,42,Salta,14602.19,Salta
+408,Michele Mattiessen,43,Salta,30235.29,Salta
+409,Cosimo Bysh,72,Santa Fe,17159.76,Santa Fe
+410,Tandie Kringe,43,Posadas,53789.98,Posadas
+411,Carley Tedder,34,Resistencia,35908.76,Resistencia
+412,Ebony Limbrick,46,Córdoba,31613.25,Cordoba
+413,Zebedee Parncutt,36,San Miguel de Tucumán,28969.85,San Miguel de Tucuman
+414,Corrianne Hellyer,40,Rosario,43852.18,Rosario
+415,Cordey Ingles,42,Posadas,30858.3,Posadas
+416,Chiquia Olsson,53,Santa Fe,39016.06,Santa Fe
+417,Arlie Falkinder,24,Córdoba,36855.07,Cordoba
+418,Melita Watson-Brown,27,San Miguel de Tucumán,22533.03,San Miguel de Tucuman
+419,Benny Oboy,34,Bahía Blanca,23750.41,Bahia Blanca
+420,Carmelia Levermore,28,Rosario,36003.94,Rosario
+421,Mitchell Danielian,39,Santa Fe,65036.72,Santa Fe
+422,Laetitia Summers,43,Santa Fe,14123.28,Santa Fe
+423,Dame Nund,33,Córdoba,42025.33,Cordoba
+424,Spencer Lorkin,55,Rosario,35908.76,Rosario
+425,Stella Kemish,26,Bahía Blanca,24821.3,Bahia Blanca
+426,Avery Brimming,33,Bahía Blanca,29401.91,Bahia Blanca
+427,Guillemette Peppett,29,Merlo,33685.06,Merlo
+428,Jessee Birmingham,40,Resistencia,27450.93,Resistencia
+429,Haskell Yantsurev,52,San Miguel de Tucumán,26137.54,San Miguel de Tucuman
+430,Putnam Sayse,23,Salta,39816.51,Salta
+431,Antonella Stollwerk,36,Resistencia,34947.57,Resistencia
+432,Ramonda Caillou,50,Mar del Plata,28657.37,Mar del Plata
+433,Lavinie Deverille,38,Mar del Plata,33271.79,Mar del Plata
+434,Sadie Semble,65,Merlo,38093.36,Merlo
+435,Francklin Drayson,59,Santa Fe,29155.48,Santa Fe
+436,Rois Reddell,43,Buenos Aires,42603.71,Buenos Aires
+437,Shelia Alenshev,43,Santa Fe,13603.06,Santa Fe
+438,Ardenia Fountian,37,Corrientes,44799.89,Corrientes
+439,Chadwick Maplethorpe,25,Santa Fe,40515.98,Santa Fe
+440,Sanders Newbery,41,Corrientes,46472.8,Corrientes
+441,Pedro Domico,24,Mar del Plata,4087.74,Mar del Plata
+442,Basile Huckle,37,Resistencia,40917.76,Resistencia
+443,Ulberto Grevile,24,Rosario,28573.15,Rosario
+444,Spenser Chomicki,27,Córdoba,40968.67,Cordoba
+445,Tremayne Khoter,54,Rosario,35552.3,Rosario
+446,Gillan St. Hill,29,Mar del Plata,52757.36,Mar del Plata
+447,Louise Bellwood,47,Bahía Blanca,59845.2,Bahia Blanca
+448,Nanny Bakesef,39,Corrientes,23698.01,Corrientes
+449,Tadeas Millwater,35,Corrientes,39688.56,Corrientes
+450,Donaugh Pickervance,34,Bahía Blanca,64559.51,Bahia Blanca
+451,Tomas Willgress,32,Mar del Plata,34379.06,Mar del Plata
+452,Dmitri Lucas,27,Bahía Blanca,50291.04,Bahia Blanca
+453,Vernon Cristou,31,San Miguel de Tucumán,18793.82,San Miguel de Tucuman
+454,Anabelle Featenby,30,Mar del Plata,45631.68,Mar del Plata
+455,Dreddy Lapenna,51,Merlo,36234.75,Merlo
+456,Blaine Calow,35,Córdoba,5095.26,Cordoba
+457,Brigitta Reddoch,53,Mar del Plata,71570.89,Mar del Plata
+458,Janenna Tuminini,28,Buenos Aires,22903.36,Buenos Aires
+459,Alethea Jacobovitz,28,Buenos Aires,54011.29,Buenos Aires
+460,Mavis Enos,50,Buenos Aires,49773.65,Buenos Aires
+461,Pepi Bart,33,Buenos Aires,24099.98,Buenos Aires
+462,Cherilynn Inch,29,Salta,19754.23,Salta
+463,Caitrin Hender,29,Córdoba,48782.53,Cordoba
+464,Zollie McAulay,53,Corrientes,40044.68,Corrientes
+465,Priscilla Durand,31,Corrientes,13924.5,Corrientes
+466,Goraud Membry,29,Merlo,35624.46,Merlo
+467,Felipe O'Hallagan,31,Corrientes,32928.99,Corrientes
+468,Corine Lambrook,29,Santa Fe,42288.95,Santa Fe
+469,Constancy Smullen,41,Rosario,51063.05,Rosario
+470,Saudra Matei,30,Rosario,32848.75,Rosario
+471,Briant Shayes,28,Resistencia,32428.68,Resistencia
+472,Otho Lambden,29,Santa Fe,35394.54,Santa Fe
+473,Dollie O'Roan,25,Resistencia,51350.49,Resistencia
+474,Oswald Pinel,42,Merlo,61449.61,Merlo
+475,Vanni Midghall,32,Córdoba,41543.42,Cordoba
+476,Pippy Kubatsch,26,Corrientes,39103.22,Corrientes
+477,Ashbey Wastall,28,Posadas,44442.16,Posadas
+478,Raul Arnoud,35,Corrientes,35105.54,Corrientes
+479,Jayne Liverseege,42,Corrientes,51975.27,Corrientes
+480,Karel Billingham,27,Buenos Aires,24518.71,Buenos Aires
+481,Denver Guihen,30,San Miguel de Tucumán,26901.81,San Miguel de Tucuman
+482,Sauncho Ings,22,Córdoba,39160.37,Cordoba
+483,Belinda Kenner,41,Posadas,35624.46,Posadas
+484,Eugen Burke,36,Santa Fe,50349.56,Santa Fe
+485,Den Warriner,50,Posadas,36725.7,Posadas
+486,Kerwinn Ledur,52,Resistencia,32513.26,Resistencia
+487,Bambi Ingleson,32,Santa Fe,31017.57,Santa Fe
+488,Levin Oats,43,San Miguel de Tucumán,37622.33,San Miguel de Tucuman
+489,Emmott Thomasset,43,Merlo,43436.96,Merlo
+490,Josiah Gabits,31,Mar del Plata,17518.23,Mar del Plata
+491,Hayyim Theml,28,Córdoba,5239.78,Cordoba
+492,Kora Dowbiggin,31,Buenos Aires,34710.4,Buenos Aires
+493,Lu Augar,45,Rosario,27918.94,Rosario
+494,Reilly Brooksby,39,Mar del Plata,38595.89,Mar del Plata
+495,Karol Bickerstasse,40,Bahía Blanca,23569.13,Bahia Blanca
+496,Orrin Schooley,43,Bahía Blanca,22716.25,Bahia Blanca
+497,Cloris Dixson,33,Rosario,22369.56,Rosario
+498,Somerset Flanaghan,31,Mar del Plata,35099.03,Mar del Plata
+499,Erinn Kemmis,23,Bahía Blanca,46672.8,Bahia Blanca
+500,Gunar Antonio,40,San Miguel de Tucumán,58970.48,San Miguel de Tucuman
+501,Ethelind Hughson,30,Salta,39947.65,Salta
+502,Lisle Alenin,50,Resistencia,22237.14,Resistencia
+503,Edi Schankelborg,40,Resistencia,42960.42,Resistencia
+504,Rahal Tryme,50,Corrientes,45752.01,Corrientes
+505,Cassaundra Bosnell,24,Posadas,27235.53,Posadas
+506,Fons Carmel,54,Mar del Plata,46405.04,Mar del Plata
+507,Dennie Lazarus,67,Corrientes,41137.28,Corrientes
+508,Kalvin Lamperti,22,Mar del Plata,41176.37,Mar del Plata
+509,Augusto Rosenstock,40,Córdoba,22912.48,Cordoba
+510,Anabelle Rundall,51,Bahía Blanca,36097.06,Bahia Blanca
+511,Trip Huntall,40,Rosario,40645.8,Rosario
+512,Sib Breckon,39,Córdoba,36003.94,Cordoba
+513,Brian Longland,24,Posadas,16211.05,Posadas
+514,Pier Lutwidge,45,Rosario,19157.59,Rosario
+515,Benni Charge,23,Mar del Plata,32846.17,Mar del Plata
+516,Marina Meekin,20,Córdoba,6844.43,Cordoba
+517,Emily Whitebread,53,Bahía Blanca,36408.87,Bahia Blanca
+518,Ferdinanda Hicks,41,Rosario,37667.75,Rosario
+519,Iona Melloy,58,San Miguel de Tucumán,41664.09,San Miguel de Tucuman
+520,Aarika Brehat,38,San Miguel de Tucumán,35066.83,San Miguel de Tucuman
+521,Anselm Sabati,38,Posadas,32676.69,Posadas
+522,Lucina Screech,53,San Miguel de Tucumán,17044.92,San Miguel de Tucuman
+523,Pet Gotcliff,41,Posadas,47602.46,Posadas
+524,Arin Mulhall,37,Rosario,27253.03,Rosario
+525,Mirelle Maior,23,San Miguel de Tucumán,31378.7,San Miguel de Tucuman
+526,Frederic Quincey,28,Resistencia,44288.9,Resistencia
+527,Tony Haresnape,48,Resistencia,37240.07,Resistencia
+528,Krystyna Maddin,38,Posadas,34951.25,Posadas
+529,Lennard Wones,45,Rosario,48619.62,Rosario
+530,Alicea Clow,34,Bahía Blanca,24703.65,Bahia Blanca
+531,Shawn Riply,39,San Miguel de Tucumán,28787.81,San Miguel de Tucuman
+532,Matelda Pearn,40,Bahía Blanca,35394.54,Bahia Blanca
+533,Aura Dicey,37,Posadas,36779.95,Posadas
+534,Graham Cuthbertson,36,Resistencia,48565.08,Resistencia
+535,Clarey Roglieri,27,Merlo,25404.19,Merlo
+536,Leticia Armes,70,Rosario,18073.59,Rosario
+537,Aidan Leavens,62,Merlo,23764.19,Merlo
+538,Gerda Witherington,25,Bahía Blanca,17630.01,Bahia Blanca
+539,Rhonda Kilmary,38,Bahía Blanca,33658.99,Bahia Blanca
+540,Pepillo Dowsett,40,San Miguel de Tucumán,21811.51,San Miguel de Tucuman
+541,Farand Seres,45,Rosario,19513.68,Rosario
+542,Leilah Lepope,58,Corrientes,47595.73,Corrientes
+543,Tony Povey,33,Salta,24339.06,Salta
+544,Cosette Donaher,30,Merlo,18548.7,Merlo
+545,Ali Roxbee,42,Santa Fe,24304.31,Santa Fe
+546,Roseline L'oiseau,39,Corrientes,44987.46,Corrientes
+547,Hammad Parnaby,34,Buenos Aires,36401.85,Buenos Aires
+548,Jilleen Francklin,22,Rosario,49171.72,Rosario
+549,Clywd Dimic,26,Corrientes,28118.15,Corrientes
+550,Micah Philippsohn,38,Salta,27551.34,Salta
+551,Kahaleel Janczyk,29,Mar del Plata,24640.14,Mar del Plata
+552,Tandy Guyot,27,Posadas,41698.13,Posadas
+553,Estevan Warricker,39,Merlo,40241.31,Merlo
+554,Suzann Doel,34,Bahía Blanca,33293.27,Bahia Blanca
+555,Dorree Hassen,42,Buenos Aires,36866.66,Buenos Aires
+556,Bram Corps,48,Santa Fe,28839.22,Santa Fe
+557,George Millberg,29,Santa Fe,28030.93,Santa Fe
+558,Ulrikaumeko Silber,52,Resistencia,21856.55,Resistencia
+559,Kelci Arnull,35,Mar del Plata,16075.79,Mar del Plata
+560,Woody Scourfield,31,Salta,29740.16,Salta
+561,Freedman Martinelli,28,San Miguel de Tucumán,49500.44,San Miguel de Tucuman
+562,Lyda Thoresby,34,Salta,22497.01,Salta
+563,Dione Forsyde,29,Posadas,26757.73,Posadas
+564,Fleming Gow,39,Santa Fe,43674.96,Santa Fe
+565,Jewelle Mabbett,33,Córdoba,30522.64,Cordoba
+566,Lauri Munns,23,Resistencia,31259.14,Resistencia
+567,Micah Matis,31,Corrientes,42927.86,Corrientes
