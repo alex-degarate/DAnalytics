@@ -1,4 +1,4 @@
-id_camp,prod_gener,canal,costo,fecha_ini,fecha_fin
+id_camp,prod_gener,canal,costo_prom,fecha_ini,fecha_fin
 1,Cuadro decorativo,RRSS,5.27,2024-04-27,2024-06-04
 2,Lámpara de mesa,RRSS,5.88,2024-05-30,2024-06-29
 3,Secadora,RRSS,5.1,2024-07-24,2024-08-30

@@ -1,4 +1,4 @@
-id_camp,prod_gener,canal,costo,fecha_ini,fecha_fin
+id_camp,prod_gener,canal,costo_prom,fecha_ini,fecha_fin
 74,Adorno de pared,TV,4.81,2024-03-20,2024-05-03
 44,Adorno de pared,Email,5.08,2024-04-13,2024-05-10
 14,Adorno de pared,RRSS,4.16,2024-10-22,2024-12-21
