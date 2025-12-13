@@ -1,31 +1,31 @@
-,Producto,Procesado,Count
-0,Adorno de pared,1,100
-1,Alfombra,1,100
-2,Aspiradora,1,100
-3,Auriculares,1,143
-4,Batidora,1,100
-5,Cafetera,1,117
-6,Candelabro,1,24
-7,Consola de videojuegos,1,99
-8,Cortinas,1,100
-9,Cuadro decorativo,1,100
-10,Cámara digital,1,100
-11,Elementos de cerámica,1,99
-12,Espejo decorativo,1,100
-13,Freidora eléctrica,1,100
-14,Heladera,1,48
-15,Horno eléctrico,1,100
-16,Jarrón decorativo,1,100
-17,Laptop,1,100
-18,Lavadora,1,100
-19,Lámpara de mesa,1,176
-20,Microondas,1,135
-21,Parlantes Bluetooth,1,98
-22,Plancha de vapor,1,100
-23,Proyector,1,99
-24,Rincón de plantas,1,101
-25,Secadora,1,100
-26,SmartWatch,1,100
-27,Smartphone,1,101
-28,Tablet,1,58
-29,Televisor,1,100
+,Producto,Procesado,Count,id_prod
+0,Adorno de pared,1,100,100
+1,Alfombra,1,100,110
+2,Aspiradora,1,100,120
+3,Auriculares,1,143,130
+4,Batidora,1,100,140
+5,Cafetera,1,117,150
+6,Candelabro,1,24,160
+7,Consola de videojuegos,1,99,170
+8,Cortinas,1,100,180
+9,Cuadro decorativo,1,100,190
+10,Cámara digital,1,100,200
+11,Elementos de cerámica,1,99,210
+12,Espejo decorativo,1,100,220
+13,Freidora eléctrica,1,100,230
+14,Heladera,1,48,240
+15,Horno eléctrico,1,100,250
+16,Jarrón decorativo,1,100,260
+17,Laptop,1,100,270
+18,Lavadora,1,100,280
+19,Lámpara de mesa,1,176,290
+20,Microondas,1,135,300
+21,Parlantes Bluetooth,1,98,310
+22,Plancha de vapor,1,100,320
+23,Proyector,1,99,330
+24,Rincón de plantas,1,101,240
+25,Secadora,1,100,350
+26,SmartWatch,1,100,360
+27,Smartphone,1,101,370
+28,Tablet,1,58,380
+29,Televisor,1,100,390
